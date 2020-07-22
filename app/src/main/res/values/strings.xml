@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Miguel Desenvolvedor</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="sms_activity_label">Contato SMS</string>
+
+    <string name="explicacao_permissao">
+        Para que seja possível realizar a ligação telefônica partindo do aplicativo,
+        libere a permissão de ligação.
+    </string>
+
+    <string name="texto_institucional">
+     Aplicativo de estudo de intenções (intent) com a bliblioteca Anko desenvolvida pela jetBrains.
+        Favor usar o menu lateral para fazer a nevegação do aplicativo.
+    </string>
+
+    <string name="hint_et_mensagem">Mensagem de texto</string>
+
+    <string name="explain_sms_activity">
+        Na mensagem de texto informe: o assunto principal, seu melhor email e um número
+        para contato. Pois assim entrarei em contato contigo.
+    </string>
+
+    <string name="enviar_button">Enviar</string>
+</resources>
